@@ -1,0 +1,22 @@
+﻿ @model Products      
+ <div class="col-sm-3 col-lg-3 col-md-3 col-md-3">
+
+  
+        <div class="thumbnail">
+            <img src="@Model.ImageThumbnailUrl" alt="Thumbnail"/>
+        </div>
+
+        <div class="caption">
+            <h5><a asp-controller="Products" asp-action="Details" asp-route-id="@Model.ProductId">@Model.ProductName</a></h5>
+            <h5 class="pull-right"><strong>&#8377; @Model.price</strong></h5>
+            <h6>@Model.Description</h6>
+        </div>
+
+        <div class="addToCart">
+            <p class="button">
+                <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="AddToShoppingCart" asp-route-productId="@Model.ProductId">
+                    <span class="glyphicon glyphicon-shopping-cart"></span> Add to Cart</a>
+            </p>
+        </div>
+
+ </div>

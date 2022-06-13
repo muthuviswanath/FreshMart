@@ -1,0 +1,45 @@
+﻿@model ShoppingCartViewModel
+
+<h2>Shopping Cart: Products you love the most</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+        <th style="vertical-align: middle;">Selected Quantity</th>
+        <th style="vertical-align: middle;">Product Name</th>
+        <th style="vertical-align: middle;">Product</th>
+        <th class="text-right" style="vertical-align: middle;">Price</th>
+        <th class="text-right" style="vertical-align: middle;">Sub Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model.ShoppingCart.ShoppingCartItems)
+        {
+            <tr>
+                <td class=" text-center" style="vertical-align: middle;">
+                    <a asp-controller="ShoppingCart" asp-action="RemoveFromShoppingCart" 
+                    asp-route-productId="@item.Products.ProductId"> - </a>
+
+                    @item.Amount
+
+                    <a asp-controller="ShoppingCart" asp-action="AddToShoppingCart" 
+                    asp-route-productId="@item.Products.ProductId"> + </a></td>
+                <td class=" text-center" style="vertical-align: middle;">@item.Products.ProductName</td>
+                <td class=" text-center" style="vertical-align: middle;"><img src="@item.Products.ImageUrl" width="75" height="75"/></td>
+                <td class=" text-center" style="vertical-align: middle;">&#8377; @item.Products.price</td>
+                <td class=" text-center" style="vertical-align: middle;">&#8377; @(@item.Amount * item.Products.price)</td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="4" class="text-right"><strong>Total</strong></td>
+            <td class="text-right"> &#8377; @Model.ShoppingCartTotal</td>
+        </tr>
+    </tfoot>
+</table>
+
+<div class="text-center">
+    <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="ClearCart">Clear Cart</a>
+    <a class="btn btn-primary" asp-controller="Order" asp-action="Checkout">Check Out</a>
+</div>

@@ -1,0 +1,24 @@
+﻿body {
+    margin:20px;
+    padding: 20px;
+    font-family: 'Noto Sans',sans-serif;
+}
+
+.goback {
+    color:white;
+    background-color: crimson;
+    height:100px;
+    font-size: 20px;
+}
+    .goback a {
+        color: white;
+        text-decoration: none;
+    }
+        .goback a:visited {
+            color: white;
+            text-decoration: none;
+        }
+        .goback a:hover {
+            color: white;
+            text-decoration: none;
+        }

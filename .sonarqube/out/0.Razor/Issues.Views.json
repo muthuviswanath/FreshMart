@@ -1,0 +1,2399 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.2.0.0",
+        "fileVersion": "4.2.0-4.22220.2 (1e40aa11)",
+        "semanticVersion": "4.2.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 67,
+                  "endLine": 42,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/CheckoutComplete.cshtml.g.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 67,
+                  "endLine": 36,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/Components/ShoppingCartSummary/Default.cshtml.g.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 207,
+                  "endLine": 70,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 62,
+                  "startColumn": 207,
+                  "endLine": 62,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 86,
+                  "startColumn": 207,
+                  "endLine": 86,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Products/Details.cshtml.g.cs",
+                "region": {
+                  "startLine": 122,
+                  "startColumn": 207,
+                  "endLine": 122,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_Carousel.cshtml.g.cs",
+                "region": {
+                  "startLine": 76,
+                  "startColumn": 203,
+                  "endLine": 76,
+                  "endColumn": 205
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_Carousel.cshtml.g.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 203,
+                  "endLine": 92,
+                  "endColumn": 205
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_Carousel.cshtml.g.cs",
+                "region": {
+                  "startLine": 108,
+                  "startColumn": 203,
+                  "endLine": 108,
+                  "endColumn": 205
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 67,
+                  "endLine": 50,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 90,
+                  "startColumn": 211,
+                  "endLine": 90,
+                  "endColumn": 213
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 164,
+                  "startColumn": 208,
+                  "endLine": 164,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 182,
+                  "startColumn": 208,
+                  "endLine": 182,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 67,
+                  "endLine": 43,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 67,
+                  "endLine": 36,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs",
+                "region": {
+                  "startLine": 106,
+                  "startColumn": 210,
+                  "endLine": 106,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Contact/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 67,
+                  "endLine": 36,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 213,
+                  "endLine": 103,
+                  "endColumn": 215
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs",
+                "region": {
+                  "startLine": 125,
+                  "startColumn": 215,
+                  "endLine": 125,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs",
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 210,
+                  "endLine": 146,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs",
+                "region": {
+                  "startLine": 168,
+                  "startColumn": 215,
+                  "endLine": 168,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs",
+                "region": {
+                  "startLine": 208,
+                  "startColumn": 212,
+                  "endLine": 208,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Products/List.cshtml.g.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 207,
+                  "endLine": 78,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 77,
+                  "startColumn": 208,
+                  "endLine": 77,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 208,
+                  "endLine": 92,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 217,
+                  "endLine": 107,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 121,
+                  "startColumn": 217,
+                  "endLine": 121,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 158,
+                  "startColumn": 212,
+                  "endLine": 158,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 207,
+                  "startColumn": 212,
+                  "endLine": 207,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 233,
+                  "startColumn": 212,
+                  "endLine": 233,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 251,
+                  "startColumn": 212,
+                  "endLine": 251,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 216,
+                  "endLine": 83,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 97,
+                  "startColumn": 217,
+                  "endLine": 97,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 217,
+                  "endLine": 127,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 149,
+                  "startColumn": 217,
+                  "endLine": 149,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/Components/CategoryMenu/Default.cshtml.g.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 207,
+                  "endLine": 72,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/Components/CategoryMenu/Default.cshtml.g.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 207,
+                  "endLine": 120,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_ProductCard.cshtml.g.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 207,
+                  "endLine": 75,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_ProductCard.cshtml.g.cs",
+                "region": {
+                  "startLine": 130,
+                  "startColumn": 207,
+                  "endLine": 130,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 213,
+                  "endLine": 103,
+                  "endColumn": 215
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs",
+                "region": {
+                  "startLine": 125,
+                  "startColumn": 215,
+                  "endLine": 125,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs",
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 210,
+                  "endLine": 146,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs",
+                "region": {
+                  "startLine": 168,
+                  "startColumn": 215,
+                  "endLine": 168,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs",
+                "region": {
+                  "startLine": 190,
+                  "startColumn": 216,
+                  "endLine": 190,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs",
+                "region": {
+                  "startLine": 211,
+                  "startColumn": 210,
+                  "endLine": 211,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs",
+                "region": {
+                  "startLine": 233,
+                  "startColumn": 215,
+                  "endLine": 233,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs",
+                "region": {
+                  "startLine": 255,
+                  "startColumn": 216,
+                  "endLine": 255,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs",
+                "region": {
+                  "startLine": 276,
+                  "startColumn": 210,
+                  "endLine": 276,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs",
+                "region": {
+                  "startLine": 298,
+                  "startColumn": 215,
+                  "endLine": 298,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs",
+                "region": {
+                  "startLine": 353,
+                  "startColumn": 212,
+                  "endLine": 353,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 67,
+                  "endLine": 35,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 114,
+                  "startColumn": 214,
+                  "endLine": 114,
+                  "endColumn": 216
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 136,
+                  "startColumn": 216,
+                  "endLine": 136,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 157,
+                  "startColumn": 210,
+                  "endLine": 157,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 179,
+                  "startColumn": 215,
+                  "endLine": 179,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 201,
+                  "startColumn": 216,
+                  "endLine": 201,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 222,
+                  "startColumn": 210,
+                  "endLine": 222,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 215,
+                  "endLine": 244,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 268,
+                  "startColumn": 214,
+                  "endLine": 268,
+                  "endColumn": 216
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 325,
+                  "startColumn": 212,
+                  "endLine": 325,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 342,
+                  "startColumn": 212,
+                  "endLine": 342,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 373,
+                  "startColumn": 212,
+                  "endLine": 373,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 433,
+                  "startColumn": 211,
+                  "endLine": 433,
+                  "endColumn": 213
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 530,
+                  "startColumn": 212,
+                  "endLine": 530,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/ShoppingCart/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 90,
+                  "startColumn": 207,
+                  "endLine": 90,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/ShoppingCart/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 131,
+                  "startColumn": 207,
+                  "endLine": 131,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/ShoppingCart/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 214,
+                  "startColumn": 208,
+                  "endLine": 214,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/ShoppingCart/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 233,
+                  "startColumn": 208,
+                  "endLine": 233,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 215,
+                  "endLine": 74,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 96,
+                  "startColumn": 209,
+                  "endLine": 96,
+                  "endColumn": 211
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 215,
+                  "endLine": 118,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 141,
+                  "startColumn": 216,
+                  "endLine": 141,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 163,
+                  "startColumn": 210,
+                  "endLine": 163,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 185,
+                  "startColumn": 215,
+                  "endLine": 185,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 208,
+                  "startColumn": 216,
+                  "endLine": 208,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 230,
+                  "startColumn": 210,
+                  "endLine": 230,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 252,
+                  "startColumn": 215,
+                  "endLine": 252,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 275,
+                  "startColumn": 216,
+                  "endLine": 275,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 297,
+                  "startColumn": 210,
+                  "endLine": 297,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 319,
+                  "startColumn": 215,
+                  "endLine": 319,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 342,
+                  "startColumn": 216,
+                  "endLine": 342,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 364,
+                  "startColumn": 210,
+                  "endLine": 364,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 386,
+                  "startColumn": 215,
+                  "endLine": 386,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 409,
+                  "startColumn": 216,
+                  "endLine": 409,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 431,
+                  "startColumn": 210,
+                  "endLine": 431,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 453,
+                  "startColumn": 215,
+                  "endLine": 453,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 476,
+                  "startColumn": 216,
+                  "endLine": 476,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 498,
+                  "startColumn": 210,
+                  "endLine": 498,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 520,
+                  "startColumn": 215,
+                  "endLine": 520,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Shared_Components_ShoppingCartSummary_Default.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/Components/ShoppingCartSummary/Default.cshtml.g.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Shared__Layout.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 24,
+                  "endLine": 52,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Products_List.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Products/List.cshtml.g.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 24,
+                  "endLine": 42,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Home_Index.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Products_Details.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Products/Details.cshtml.g.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 24,
+                  "endLine": 43,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Areas_Identity_Pages_Account_ForgotPassword.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 24,
+                  "endLine": 60,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Order_Checkout.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Order/Checkout.cshtml.g.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 24,
+                  "endLine": 49,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Shared__Carousel.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Views/Shared/_Carousel.cshtml.g.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 24,
+                  "endLine": 46,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Areas_Identity_Pages__ValidationScriptsPartial.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///E:/GreatLearning/EntityFramework/WEBAPI/DBFirstApproach/FreshMart/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 24,
+                  "endLine": 61,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        }
+      ],
+      "rules": {
+        "CS0169": {
+          "id": "CS0169",
+          "shortDescription": "Field is never used",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0169)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS1998": {
+          "id": "CS1998",
+          "shortDescription": "Async method lacks 'await' operators and will run synchronously",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1998)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

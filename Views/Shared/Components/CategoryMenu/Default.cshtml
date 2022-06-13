@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Category>
+
+    <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown">Categories <strong class="caret"></strong></a>
+        <ul class="dropdown-menu">
+        @foreach(var cat in Model)
+        {
+            <li>
+                <a asp-controller="Products" asp-action="List" asp-route-category="@cat.CategoryName">@cat.CategoryName</a>
+            </li>
+
+        }
+        <li class="divider"></li>
+        <li>
+            <a asp-controller="Products" asp-action="List" asp-route-category="">All Products</a>
+        </li>
+        </ul>
+    </li>
